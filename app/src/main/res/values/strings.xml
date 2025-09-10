@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bugresma</string>
+    <string name="enter_your_name">Digite seu nome</string>
+    <string name="login">Entrar</string>
+    <string name="welcome_message">Bem-vindo, %s!</string>
+    <string name="settings">Configurações</string>
+    <string name="enable_notifications">Ativar notificações</string>
+    <string name="back">Voltar</string>
+</resources>
